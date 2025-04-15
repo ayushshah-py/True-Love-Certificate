@@ -69,7 +69,7 @@ To get a local copy up and running follow these simple steps:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/true-love-certificate.git
+git clone https://github.com/ayushshah-py/True-Love-Certificate.git
 ```
 
 ### 2️⃣ Open in a browser

@@ -34,7 +34,7 @@ Whether you're a couple, best friends, or just someone who enjoys fun projects â
 
 ## ðŸ“¸ Demo & Screenshots
 
-**Live Demo:** [Click Here](#) *(Replace with your deployed URL)*
+**Live Demo:** [Click Here](https://remarkable-pie-cfe46c.netlify.app/) *(Replace with your deployed URL)*
 
 ---
 
